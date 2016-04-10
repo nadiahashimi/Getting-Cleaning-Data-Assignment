@@ -15,9 +15,9 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 This code book summarizes the resulting data fields in tidy.txt.
 
-Identifiers
+###Identifiers
 
-subject - The ID of the test subject
+>subject - The ID of the test subject
 activity - The type of activity performed when the corresponding measurements were taken
 Measurements
 
