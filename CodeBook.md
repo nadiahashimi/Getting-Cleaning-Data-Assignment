@@ -4,7 +4,7 @@ This is a code book that describes the variables, the data, and any transformati
 
 ##The data source
 
->Original data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+> Original data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 Original description of the dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ##Data Set Information
@@ -18,13 +18,13 @@ This code book summarizes the resulting data fields in tidy.txt.
 ###Identifiers
 
 >subject - The ID of the test subject
-activity - The type of activity performed when the corresponding measurements were taken
+>activity - The type of activity performed when the corresponding measurements were taken
 
 ###Measurements
 
->tBodyAccMeanX
-tBodyAccMeanY
-tBodyAccMeanZ
+> tBodyAccMeanX
+> tBodyAccMeanY
+> tBodyAccMeanZ
 tBodyAccStdX
 tBodyAccStdY
 tBodyAccStdZ
