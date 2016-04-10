@@ -24,9 +24,9 @@ This code book summarizes the resulting data fields in tidy.txt.
 ###Measurements
 
 <dt>tBodyAccMeanX</dt>
-tBodyAccMeanY
-tBodyAccMeanZ
-tBodyAccStdX
+tBodyAccMeanY</dt>
+tBodyAccMeanZ</dt>
+tBodyAccStdX</dt>
 tBodyAccStdY
 tBodyAccStdZ
 tGravityAccMeanX
