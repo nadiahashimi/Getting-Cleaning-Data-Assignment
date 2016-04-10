@@ -1,7 +1,7 @@
 # Getting-Cleaning-Data-Assignment
 ## Peer Reviewed Final Assignment 
 
-Assignment Instructions/deliverables; 
+###Assignment Instructions/deliverables; 
 You should create one R script called run_analysis.R that does the following.
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -9,8 +9,8 @@ You should create one R script called run_analysis.R that does the following.
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The Tasks performed in doing this assignment:
-1. The first thing I did is to set my working directory to the folder where the data is going to be downloaded. 
+###The Tasks performed in doing this assignment:
+<1. The first thing I did is to set my working directory to the folder where the data is going to be downloaded.> 
 2. I then downloaded the data and unzipped it to my working directory.
 3. I read the readme file and activity_lable and features text files.
 4. I loaded the required R packages.
@@ -24,7 +24,7 @@ The Tasks performed in doing this assignment:
 10. Finally, I put everything together and created a Tidydata data.table
 11. then I used write.table() to create TidyData.txt.
 
-Assessment Directions
+###Assessment Directions
 
 You should Assess my code against the tasks given by the below assignment direction. 
 
