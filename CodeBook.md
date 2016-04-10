@@ -23,7 +23,7 @@ This code book summarizes the resulting data fields in tidy.txt.
 
 ###Measurements
 
-tBodyAccMeanX
+<dt>tBodyAccMeanX</dt>
 tBodyAccMeanY
 tBodyAccMeanZ
 tBodyAccStdX
